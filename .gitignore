@@ -1,0 +1,33 @@
+# Environment & Credentials
+.env
+*.env
+*.pem
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw Scraped Data (Exclude massive JSONL dumps from git)
+app_rawdata/*.jsonl
+new_sql_files/*.sql
+steam_apps.json
+update_log.txt
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS generated files
+Thumbs.db
