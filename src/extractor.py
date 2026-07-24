@@ -15,6 +15,7 @@ class SteamExtractor:
         self.log_file = log_file or config.LOG_FILE
         self.chunk_size = config.CHUNK_SIZE
         self.rate_limit_delay = config.RATE_LIMIT_DELAY
+        self.max_apps_per_run = config.MAX_APPS_PER_RUN
 
     def log(self, message):
         timestamp = time.strftime('%Y-%m-%d %H:%M:%S')
@@ -85,6 +86,10 @@ class SteamExtractor:
         if not new_apps:
             self.log("No new apps to process. Everything is up to date!")
             return 0
+
+        if self.max_apps_per_run > 0 and len(new_apps) > self.max_apps_per_run:
+            self.log(f"Batch limit active: Processing {self.max_apps_per_run} out of {len(new_apps)} new apps for this run.")
+            new_apps = new_apps[:self.max_apps_per_run]
 
         added_count = 0
         game_count = 0

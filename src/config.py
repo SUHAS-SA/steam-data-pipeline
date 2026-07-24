@@ -28,3 +28,5 @@ LOG_FILE = os.path.join(BASE_DIR, "update_log.txt")
 # Pipeline Configuration
 CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", 10000))
 RATE_LIMIT_DELAY = float(os.getenv("RATE_LIMIT_DELAY", 1.5))
+MAX_APPS_PER_RUN = int(os.getenv("MAX_APPS_PER_RUN", 0)) # 0 = unlimited local run; set > 0 for cloud batch runs
+
