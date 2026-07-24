@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120 # 2-hour timeout safety cushion
     permissions:
-      contents: write # Explicit permission for auto-commit action to push updates
+      contents: write # Permission for auto-commit action to push updates
+      actions: write  # Permission for GitHub CLI to trigger next batch run
 
     steps:
       - name: Checkout Repository
@@ -42,8 +43,17 @@ jobs:
           python -m src.pipeline --stage transform
 
       - name: Commit & Push Updated Data to Repository
+        id: auto_commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chrono: automated steam dataset update [skip ci]"
           branch: main
           file_pattern: "app_rawdata/ new_sql_files/ steam_apps.json update_log.txt"
+
+      - name: Trigger Next Batch Workflow Run
+        if: steps.auto_commit.outputs.changes_detected == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Batch completed and committed! Triggering next 2000-game batch..."
+          gh workflow run "Steam Data Pipeline ETL" --ref main
