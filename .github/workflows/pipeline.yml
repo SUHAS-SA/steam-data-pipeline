@@ -46,4 +46,4 @@ jobs:
         with:
           commit_message: "chrono: automated steam dataset update [skip ci]"
           branch: main
-          file_pattern: "app_rawdata/*.jsonl app_rawdata/*.jsonl.gz new_sql_files/*.sql steam_apps.json update_log.txt"
+          file_pattern: "app_rawdata/ new_sql_files/ steam_apps.json update_log.txt"
