@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12%2B-336791.svg)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An end-to-end Data Engineering pipeline built in Python and PostgreSQL to extract, transform, normalize, and store large-scale video game metadata from the official **Steam Web API**.
 
@@ -107,17 +106,13 @@ steam-data-pipeline/
 ├── requirements.txt              # Project dependencies
 ├── sql/
 │   └── schema.sql                # Complete PostgreSQL DDL (Tables, Indexes, Constraints)
-├── src/
-│   ├── __init__.py
-│   ├── config.py                 # Centralized configuration & environment loader
-│   ├── extractor.py              # Steam API client with rate limiting & state persistence
-│   ├── transformer.py            # JSONL parser & HTML requirement text parser
-│   ├── db_loader.py              # PostgreSQL database connection & loader
-│   └── pipeline.py               # Master CLI pipeline orchestrator
-└── cloud_databricks/
-    ├── README.md                 # Databricks setup instructions
-    ├── 01_extract_steam_data.py  # Databricks DBFS extraction script
-    └── 02_process_and_load.py    # Databricks PySpark/Python loader script
+└── src/
+    ├── __init__.py
+    ├── config.py                 # Centralized configuration & environment loader
+    ├── extractor.py              # Steam API client with rate limiting & state persistence
+    ├── transformer.py            # JSONL parser & HTML requirement text parser
+    ├── db_loader.py              # PostgreSQL database connection & loader
+    └── pipeline.py               # Master CLI pipeline orchestrator
 ```
 
 ---
@@ -155,37 +150,3 @@ python -m src.pipeline --stage all
 ```
 
 *For detailed prerequisite configuration, see [SETUP_GUIDE.md](file:///c:/Users/hp/Downloads/Finalsteamdata/Finalsteamdata/steam-data-pipeline/SETUP_GUIDE.md).*
-
----
-
-## 📊 Sample Portfolio Analytics Queries
-
-Once data is loaded into PostgreSQL, execute these SQL queries for insights:
-
-### 1. Top 10 High-Rated Games by Metacritic Score
-```sql
-SELECT name, developer, release_date, metacritic_score
-FROM games
-WHERE metacritic_score IS NOT NULL
-ORDER BY metacritic_score DESC
-LIMIT 10;
-```
-
-### 2. Distribution of Most Demanded RAM (System Memory) Requirements
-```sql
-SELECT memory, COUNT(*) as game_count
-FROM game_requirements
-WHERE req_type = 'minimum' AND memory IS NOT NULL
-GROUP BY memory
-ORDER BY game_count DESC
-LIMIT 10;
-```
-
-### 3. Top Game Genres by Count
-```sql
-SELECT g.name AS genre_name, COUNT(gg.game_appid) AS total_games
-FROM genres g
-JOIN game_genres gg ON g.genre_id = gg.genre_id
-GROUP BY g.name
-ORDER BY total_games DESC;
-```
