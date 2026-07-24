@@ -13,3 +13,9 @@
 # Windows scripts
 *.bat text eol=crlf
 *.cmd text eol=crlf
+
+# Git LFS (Large File Storage) tracking for Steam Dataset
+app_rawdata/*.jsonl filter=lfs diff=lfs merge=lfs -text
+app_rawdata/*.jsonl.gz filter=lfs diff=lfs merge=lfs -text
+new_sql_files/*.sql filter=lfs diff=lfs merge=lfs -text
+steam_apps.json filter=lfs diff=lfs merge=lfs -text
