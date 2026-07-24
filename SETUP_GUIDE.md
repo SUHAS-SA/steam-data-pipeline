@@ -95,22 +95,85 @@ pip install -r requirements.txt
 ## 🗄️ 4. PostgreSQL Database & Schema Setup
 
 ### Step 4.1: Create PostgreSQL Database
-Using `psql` command line or pgAdmin, create a database named `gamecheck`:
+Before applying the schema, you must create an empty database named `gamecheck`.
 
+#### Method A: Via Command Line (psql)
 ```sql
-CREATE DATABASE gamecheck;
+psql -U postgres -c "CREATE DATABASE gamecheck;"
 ```
 
-### Step 4.2: Apply Schema DDL
-Execute the schema script to create the relational tables and performance indexes:
+#### Method B: Via pgAdmin 4
+1. Open pgAdmin 4 and connect to your local server.
+2. Right-click **Databases** -> **Create** -> **Database...**
+3. Name the database `gamecheck` and click **Save**.
 
-#### Using `psql` CLI:
+---
+
+### Step 4.2: Apply Schema DDL (`sql/schema.sql`)
+
+The command to apply the database schema is:
 ```bash
 psql -h localhost -U postgres -d gamecheck -f sql/schema.sql
 ```
 
-#### Using pgAdmin / DBeaver:
-Open `sql/schema.sql` inside your SQL editor connected to `gamecheck` database and execute the query.
+#### 🔍 Breakdown of the Command Options:
+* `-h localhost`: Specifies the database host server (your local machine).
+* `-U postgres`: Specifies the PostgreSQL username (`postgres` is default).
+* `-d gamecheck`: Specifies the target database name.
+* `-f sql/schema.sql`: Specifies the path to the SQL schema file to execute.
+
+---
+
+### 📍 Where & How to Run the Schema Command
+
+#### Option 1: Standard Terminal / PowerShell / Command Prompt (Recommended)
+1. **Open Terminal / PowerShell / Command Prompt** on your computer.
+2. **Navigate to the root directory** of your project where `sql/schema.sql` is located:
+   ```bash
+   cd C:\Users\hp\Desktop\steam-data-pipeline
+   ```
+3. **Execute the command**:
+   ```bash
+   psql -h localhost -U postgres -d gamecheck -f sql/schema.sql
+   ```
+4. **Enter Password**: PostgreSQL will prompt you for the `postgres` user password. Type your password and press **Enter** (the characters will remain invisible while typing).
+
+> [!NOTE]
+> **Windows Troubleshooting (`'psql' is not recognized`)**:
+> If Windows says `'psql' is not recognized as an internal or external command`, PostgreSQL is not in your system's PATH variable. You can run the command by using the full path to `psql.exe` (replace `16` with your installed PostgreSQL version):
+> ```powershell
+> & "C:\Program Files\PostgreSQL\16\bin\psql.exe" -h localhost -U postgres -d gamecheck -f sql/schema.sql
+> ```
+
+---
+
+#### Option 2: Using SQL Shell (`psql`) Interactive Application (Windows Start Menu)
+If you prefer using the built-in Windows PostgreSQL GUI interactive console:
+
+1. Open **Windows Start Menu** -> search for **SQL Shell (psql)** and launch it.
+2. Press **Enter** to accept the defaults for Server [`localhost`], Database [`postgres`], Port [`5432`], and Username [`postgres`].
+3. Enter your password when prompted.
+4. Connect to the `gamecheck` database:
+   ```sql
+   \c gamecheck
+   ```
+5. Execute the schema file using the `\i` (import) command (forward slashes required):
+   ```sql
+   \i sql/schema.sql
+   ```
+   *(Or specify absolute path: `\i 'C:/Users/hp/Desktop/steam-data-pipeline/sql/schema.sql'`)*
+
+---
+
+#### Option 3: Using pgAdmin 4 or DBeaver (Graphical User Interface)
+If you prefer using a visual SQL editor:
+
+1. Open **pgAdmin 4** or **DBeaver**.
+2. Connect to your local PostgreSQL server and expand the **gamecheck** database.
+3. Open the **Query Tool** (In pgAdmin: Right-click `gamecheck` -> **Query Tool**).
+4. Click the **Open File** folder icon (or press `Ctrl + O`) and navigate to `steam-data-pipeline/sql/schema.sql`.
+5. Click the **Execute / Play** button (or press `F5`) to run the script.
+6. Verify in the left panel under `gamecheck -> Schemas -> public -> Tables` that 6 tables (`games`, `genres`, `tags`, `game_genres`, `game_tags`, `game_requirements`) have been created.
 
 ---
 
