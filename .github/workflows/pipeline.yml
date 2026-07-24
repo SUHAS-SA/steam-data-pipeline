@@ -9,6 +9,7 @@ on:
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    timeout-minutes: 60 # Precaution: Automatically cancels job after 60 mins to prevent runaway usage
 
     steps:
       - name: Checkout Repository
@@ -42,4 +43,4 @@ jobs:
         with:
           commit_message: "chrono: automated steam dataset update [skip ci]"
           branch: main
-          file_pattern: "app_rawdata/*.jsonl new_sql_files/*.sql steam_apps.json update_log.txt"
+          file_pattern: "app_rawdata/*.jsonl app_rawdata/*.jsonl.gz new_sql_files/*.sql steam_apps.json update_log.txt"

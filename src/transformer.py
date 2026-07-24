@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import gzip
 from datetime import datetime
 from src import config
 
@@ -92,7 +93,7 @@ class SteamDataTransformer:
         target_lines = lines[start_idx:]
         appids = set()
         files = set()
-        pattern = re.compile(r"\(AppID:\s*(\d+)\)\s*added to\s*(.*?\.jsonl)")
+        pattern = re.compile(r"\(AppID:\s*(\d+)\)\s*added to\s*(.*?\.jsonl(?:\.gz)?)")
 
         for line in target_lines:
             match = pattern.search(line)
@@ -118,10 +119,16 @@ class SteamDataTransformer:
 
             for jsonl_filename in files_to_process:
                 jsonl_file = os.path.join(self.input_dir, jsonl_filename)
+                
+                # Check for .gz version if plain .jsonl doesn't exist
+                if not os.path.exists(jsonl_file) and os.path.exists(jsonl_file + ".gz"):
+                    jsonl_file = jsonl_file + ".gz"
+                    
                 if not os.path.exists(jsonl_file):
                     continue
 
-                with open(jsonl_file, "r", encoding="utf-8") as f:
+                open_fn = gzip.open if jsonl_file.endswith(".gz") else open
+                with open_fn(jsonl_file, "rt", encoding="utf-8") as f:
                     for line in f:
                         if not line.strip():
                             continue

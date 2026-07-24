@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import gzip
 import requests
 from src import config
 
@@ -107,10 +108,10 @@ class SteamExtractor:
 
                             range_start = (appid // self.chunk_size) * self.chunk_size
                             range_end = range_start + self.chunk_size - 1
-                            filename = f"apps_{range_start}_{range_end}.jsonl"
+                            filename = f"apps_{range_start}_{range_end}.jsonl.gz"
                             filepath = os.path.join(self.out_dir, filename)
 
-                            with open(filepath, "a", encoding="utf-8") as out_f:
+                            with gzip.open(filepath, "at", encoding="utf-8") as out_f:
                                 out_f.write(json.dumps(record) + "\n")
 
                             self.log(f"SAVED GAME DATA: {app_name} (AppID: {appid}) added to {filename}")
