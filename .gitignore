@@ -16,11 +16,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Raw Scraped Data (Exclude massive JSONL dumps from git)
-app_rawdata/*.jsonl
-new_sql_files/*.sql
-steam_apps.json
-update_log.txt
+# Raw Scraped Data (Tracked via Git LFS or Gzip Compression)
+# To commit data files to GitHub using Git LFS, keep these uncommented.
+# app_rawdata/*.jsonl
+# new_sql_files/*.sql
+# steam_apps.json
+# update_log.txt
 
 # IDE / Editor Files
 .vscode/
