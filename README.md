@@ -107,17 +107,13 @@ steam-data-pipeline/
 ├── requirements.txt              # Project dependencies
 ├── sql/
 │   └── schema.sql                # Complete PostgreSQL DDL (Tables, Indexes, Constraints)
-├── src/
-│   ├── __init__.py
-│   ├── config.py                 # Centralized configuration & environment loader
-│   ├── extractor.py              # Steam API client with rate limiting & state persistence
-│   ├── transformer.py            # JSONL parser & HTML requirement text parser
-│   ├── db_loader.py              # PostgreSQL database connection & loader
-│   └── pipeline.py               # Master CLI pipeline orchestrator
-└── cloud_databricks/
-    ├── README.md                 # Databricks setup instructions
-    ├── 01_extract_steam_data.py  # Databricks DBFS extraction script
-    └── 02_process_and_load.py    # Databricks PySpark/Python loader script
+└── src/
+    ├── __init__.py
+    ├── config.py                 # Centralized configuration & environment loader
+    ├── extractor.py              # Steam API client with rate limiting & state persistence
+    ├── transformer.py            # JSONL parser & HTML requirement text parser
+    ├── db_loader.py              # PostgreSQL database connection & loader
+    └── pipeline.py               # Master CLI pipeline orchestrator
 ```
 
 ---
