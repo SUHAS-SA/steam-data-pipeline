@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12%2B-336791.svg)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An end-to-end Data Engineering pipeline built in Python and PostgreSQL to extract, transform, normalize, and store large-scale video game metadata from the official **Steam Web API**.
 
