@@ -177210,3 +177210,9 @@
 [2026-07-29 05:35:35] SAVED GAME DATA: UMAN (AppID: 5005050) added to apps_5000000_5009999.jsonl.gz
 [2026-07-29 05:35:37] SAVED GAME DATA: WESTERN SHOP SIMULATOR (AppID: 5005640) added to apps_5000000_5009999.jsonl.gz
 [2026-07-29 05:35:39] Extraction step completed. Processed 664 new appids. Saved 664 valid games.
+[2026-07-29 05:36:16] Loaded 176587 known apps state tracking file.
+[2026-07-29 05:36:16] Fetching latest app catalog from Steam API...
+[2026-07-29 05:36:26] Total apps discovered on Steam: 176578
+[2026-07-29 05:36:26] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-07-29 05:36:29] HTTP Error 500 for AppID 1196310
+[2026-07-29 05:36:30] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
