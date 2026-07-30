@@ -177539,3 +177539,10 @@
 [2026-07-30 01:53:56] SAVED GAME DATA: Spring Nights: 45 Days in Zhaoque (AppID: 5010720) added to apps_5010000_5019999.jsonl.gz
 [2026-07-30 01:53:58] SAVED GAME DATA: Hentai Age Rustic (AppID: 5016680) added to apps_5010000_5019999.jsonl.gz
 [2026-07-30 01:54:00] Extraction step completed. Processed 161 new appids. Saved 161 valid games.
+[2026-07-30 01:54:47] Loaded 176748 known apps state tracking file.
+[2026-07-30 01:54:47] Fetching latest app catalog from Steam API...
+[2026-07-30 01:54:56] Total apps discovered on Steam: 176734
+[2026-07-30 01:54:56] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-07-30 01:54:58] HTTP Error 500 for AppID 1196310
+[2026-07-30 01:55:00] SAVED GAME DATA: The Demon King's Incursion (AppID: 4985870) added to apps_4980000_4989999.jsonl.gz
+[2026-07-30 01:55:02] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
