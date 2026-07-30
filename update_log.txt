@@ -177679,3 +177679,10 @@
 [2026-07-30 02:14:23] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-07-30 02:14:29] HTTP Error 500 for AppID 1196310
 [2026-07-30 02:14:30] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-07-30 02:14:59] Loaded 176750 known apps state tracking file.
+[2026-07-30 02:14:59] Fetching latest app catalog from Steam API...
+[2026-07-30 02:15:09] Total apps discovered on Steam: 176736
+[2026-07-30 02:15:09] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-07-30 02:15:12] HTTP Error 500 for AppID 1196310
+[2026-07-30 02:15:13] SAVED GAME DATA: Undermoon (AppID: 5005140) added to apps_5000000_5009999.jsonl.gz
+[2026-07-30 02:15:16] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
