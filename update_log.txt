@@ -177957,3 +177957,9 @@
 [2026-07-30 02:51:41] HTTP Error 500 for AppID 1196310
 [2026-07-30 02:51:43] SAVED GAME DATA: 烟雨山异闻 - The Mystery of Misty Mount (AppID: 4982080) added to apps_4980000_4989999.jsonl.gz
 [2026-07-30 02:51:45] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
+[2026-07-30 02:52:18] Loaded 176752 known apps state tracking file.
+[2026-07-30 02:52:18] Fetching latest app catalog from Steam API...
+[2026-07-30 02:52:27] Total apps discovered on Steam: 176737
+[2026-07-30 02:52:27] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-07-30 02:52:33] HTTP Error 500 for AppID 1196310
+[2026-07-30 02:52:34] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
