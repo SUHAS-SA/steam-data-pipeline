@@ -178606,3 +178606,10 @@
 [2026-07-31 02:55:52] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-07-31 02:55:54] HTTP Error 500 for AppID 1196310
 [2026-07-31 02:55:55] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-07-31 02:56:30] Loaded 176963 known apps state tracking file.
+[2026-07-31 02:56:30] Fetching latest app catalog from Steam API...
+[2026-07-31 02:56:40] Total apps discovered on Steam: 176940
+[2026-07-31 02:56:40] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-07-31 02:56:42] HTTP Error 500 for AppID 1196310
+[2026-07-31 02:56:44] SAVED GAME DATA: Kingdom TD: Draft Your Demise (AppID: 4990780) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:56:46] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
