@@ -178445,3 +178445,11 @@
 [2026-07-31 02:33:54] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-07-31 02:33:57] HTTP Error 500 for AppID 1196310
 [2026-07-31 02:33:58] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-07-31 02:34:32] Loaded 176958 known apps state tracking file.
+[2026-07-31 02:34:32] Fetching latest app catalog from Steam API...
+[2026-07-31 02:34:43] Total apps discovered on Steam: 176936
+[2026-07-31 02:34:43] Update started. Found 3 NEW apps to inspect and fetch.
+[2026-07-31 02:34:49] HTTP Error 500 for AppID 1196310
+[2026-07-31 02:34:51] SAVED GAME DATA: Iron Courier (AppID: 4948640) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:34:53] SAVED GAME DATA: Omni Growth (AppID: 5013790) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:34:55] Extraction step completed. Processed 2 new appids. Saved 2 valid games.
