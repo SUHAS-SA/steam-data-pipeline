@@ -178795,3 +178795,10 @@
 [2026-07-31 03:21:28] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-07-31 03:21:30] HTTP Error 500 for AppID 1196310
 [2026-07-31 03:21:31] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-07-31 03:22:10] Loaded 176966 known apps state tracking file.
+[2026-07-31 03:22:10] Fetching latest app catalog from Steam API...
+[2026-07-31 03:22:17] Total apps discovered on Steam: 176943
+[2026-07-31 03:22:17] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-07-31 03:22:20] HTTP Error 500 for AppID 1196310
+[2026-07-31 03:22:21] SKIPPED DATA: LAIN (AppID: 4988650) returned success: false
+[2026-07-31 03:22:24] Extraction step completed. Processed 1 new appids. Saved 0 valid games.
