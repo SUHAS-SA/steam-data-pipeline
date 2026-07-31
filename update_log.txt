@@ -178078,3 +178078,213 @@
 [2026-07-30 03:08:52] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-07-30 03:08:58] HTTP Error 500 for AppID 1196310
 [2026-07-30 03:08:59] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-07-31 02:06:34] Loaded 176753 known apps state tracking file.
+[2026-07-31 02:06:34] Fetching latest app catalog from Steam API...
+[2026-07-31 02:06:43] Total apps discovered on Steam: 176934
+[2026-07-31 02:06:43] Update started. Found 205 NEW apps to inspect and fetch.
+[2026-07-31 02:06:46] HTTP Error 500 for AppID 1196310
+[2026-07-31 02:06:48] SAVED GAME DATA: Satus Colony Survival (AppID: 1715630) added to apps_1710000_1719999.jsonl.gz
+[2026-07-31 02:06:49] SAVED GAME DATA: Message From Aliens (AppID: 1858720) added to apps_1850000_1859999.jsonl.gz
+[2026-07-31 02:06:51] SAVED GAME DATA: Rideshare "Stimulator" (AppID: 2366590) added to apps_2360000_2369999.jsonl.gz
+[2026-07-31 02:06:53] SAVED GAME DATA: Godreaper (AppID: 2691080) added to apps_2690000_2699999.jsonl.gz
+[2026-07-31 02:06:54] SAVED GAME DATA: The Vanishing Memories (AppID: 2896710) added to apps_2890000_2899999.jsonl.gz
+[2026-07-31 02:06:56] SAVED GAME DATA: Oldies (AppID: 3363620) added to apps_3360000_3369999.jsonl.gz
+[2026-07-31 02:06:58] SAVED GAME DATA: Каникулы Времени (AppID: 3417970) added to apps_3410000_3419999.jsonl.gz
+[2026-07-31 02:06:59] SAVED GAME DATA: Legend of the Taiwanese Harlot (AppID: 3436340) added to apps_3430000_3439999.jsonl.gz
+[2026-07-31 02:07:01] SAVED GAME DATA: Silly Sausage Buffet (AppID: 3465070) added to apps_3460000_3469999.jsonl.gz
+[2026-07-31 02:07:03] SAVED GAME DATA: NEO VANDAL (AppID: 3484830) added to apps_3480000_3489999.jsonl.gz
+[2026-07-31 02:07:04] SAVED GAME DATA: A Sea of Grey & Green (AppID: 3544610) added to apps_3540000_3549999.jsonl.gz
+[2026-07-31 02:07:06] SAVED GAME DATA: Seaworks: Trap Season (AppID: 3765000) added to apps_3760000_3769999.jsonl.gz
+[2026-07-31 02:07:08] SAVED GAME DATA: Vice Vision Runner (AppID: 3807750) added to apps_3800000_3809999.jsonl.gz
+[2026-07-31 02:07:10] SAVED GAME DATA: PuppetOFF (AppID: 4023110) added to apps_4020000_4029999.jsonl.gz
+[2026-07-31 02:07:11] SAVED GAME DATA: PUBPET (AppID: 4107690) added to apps_4100000_4109999.jsonl.gz
+[2026-07-31 02:07:13] SAVED GAME DATA: 祥之云三界 (AppID: 4171150) added to apps_4170000_4179999.jsonl.gz
+[2026-07-31 02:07:14] SAVED GAME DATA: Croc 2 Kingdom of the Gobbos (AppID: 4198360) added to apps_4190000_4199999.jsonl.gz
+[2026-07-31 02:07:16] SAVED GAME DATA: SHEEPSTERS (AppID: 4277020) added to apps_4270000_4279999.jsonl.gz
+[2026-07-31 02:07:18] SAVED GAME DATA: Marupoyo: The Round Chick's Adventure (AppID: 4355110) added to apps_4350000_4359999.jsonl.gz
+[2026-07-31 02:07:19] SAVED GAME DATA: Katanagari (AppID: 4377280) added to apps_4370000_4379999.jsonl.gz
+[2026-07-31 02:07:21] SAVED GAME DATA: Rebels of the Solar Speedway (AppID: 4380680) added to apps_4380000_4389999.jsonl.gz
+[2026-07-31 02:07:23] SAVED GAME DATA: Perry's Pizzeria (AppID: 4428780) added to apps_4420000_4429999.jsonl.gz
+[2026-07-31 02:07:25] SAVED GAME DATA: Marque & Reprisal (AppID: 4516500) added to apps_4510000_4519999.jsonl.gz
+[2026-07-31 02:07:27] SAVED GAME DATA: astoria (AppID: 4547450) added to apps_4540000_4549999.jsonl.gz
+[2026-07-31 02:07:28] SAVED GAME DATA: Goblins and Gunslingers (AppID: 4557390) added to apps_4550000_4559999.jsonl.gz
+[2026-07-31 02:07:30] SAVED GAME DATA: Timber Truck: Chaos Coop (AppID: 4561930) added to apps_4560000_4569999.jsonl.gz
+[2026-07-31 02:07:32] SAVED GAME DATA: A Game About Farting (AppID: 4569060) added to apps_4560000_4569999.jsonl.gz
+[2026-07-31 02:07:33] SAVED GAME DATA: Orbital Maintenance Technician (AppID: 4579790) added to apps_4570000_4579999.jsonl.gz
+[2026-07-31 02:07:35] SAVED GAME DATA: Launch Window (AppID: 4590170) added to apps_4590000_4599999.jsonl.gz
+[2026-07-31 02:07:37] SAVED GAME DATA: Scramble (AppID: 4601990) added to apps_4600000_4609999.jsonl.gz
+[2026-07-31 02:07:38] SAVED GAME DATA: 伊莉亚娜公主的坠落之夜~她已不再属于你~ (AppID: 4607340) added to apps_4600000_4609999.jsonl.gz
+[2026-07-31 02:07:40] SAVED GAME DATA: Anvilia (AppID: 4653380) added to apps_4650000_4659999.jsonl.gz
+[2026-07-31 02:07:41] SAVED GAME DATA: Eldrem: Kingdoms (AppID: 4679590) added to apps_4670000_4679999.jsonl.gz
+[2026-07-31 02:07:43] SAVED GAME DATA: Wizard King (AppID: 4713910) added to apps_4710000_4719999.jsonl.gz
+[2026-07-31 02:07:45] SAVED GAME DATA: Starway to Urf (AppID: 4715870) added to apps_4710000_4719999.jsonl.gz
+[2026-07-31 02:07:46] SAVED GAME DATA: System Grid Crusher  (AppID: 4725140) added to apps_4720000_4729999.jsonl.gz
+[2026-07-31 02:07:48] SAVED GAME DATA: EasyBreezy (AppID: 4732290) added to apps_4730000_4739999.jsonl.gz
+[2026-07-31 02:07:50] SAVED GAME DATA: Birds of Impalatism (AppID: 4736240) added to apps_4730000_4739999.jsonl.gz
+[2026-07-31 02:07:51] SAVED GAME DATA: Drag'n Wash (AppID: 4739660) added to apps_4730000_4739999.jsonl.gz
+[2026-07-31 02:07:53] SAVED GAME DATA: Emergency Buddies (AppID: 4767090) added to apps_4760000_4769999.jsonl.gz
+[2026-07-31 02:07:55] SAVED GAME DATA: Four-Dimensional (AppID: 4771180) added to apps_4770000_4779999.jsonl.gz
+[2026-07-31 02:07:56] SAVED GAME DATA: Corporate Maker (AppID: 4787400) added to apps_4780000_4789999.jsonl.gz
+[2026-07-31 02:07:58] SAVED GAME DATA: Tower Of Wishes 5: Indonesia (AppID: 4809760) added to apps_4800000_4809999.jsonl.gz
+[2026-07-31 02:08:00] SAVED GAME DATA: Duskfire (AppID: 4819760) added to apps_4810000_4819999.jsonl.gz
+[2026-07-31 02:08:01] SAVED GAME DATA: 墨魂 (AppID: 4826480) added to apps_4820000_4829999.jsonl.gz
+[2026-07-31 02:08:03] SAVED GAME DATA: Unknown Zone (AppID: 4830030) added to apps_4830000_4839999.jsonl.gz
+[2026-07-31 02:08:05] SAVED GAME DATA: 100 Scout Cats (AppID: 4839620) added to apps_4830000_4839999.jsonl.gz
+[2026-07-31 02:08:06] SAVED GAME DATA: 100 Vendor Cats (AppID: 4839630) added to apps_4830000_4839999.jsonl.gz
+[2026-07-31 02:08:08] SAVED GAME DATA: 100 Easter Cats (AppID: 4839640) added to apps_4830000_4839999.jsonl.gz
+[2026-07-31 02:08:10] SAVED GAME DATA: 100 Dwarf Cats (AppID: 4839650) added to apps_4830000_4839999.jsonl.gz
+[2026-07-31 02:08:12] SAVED GAME DATA: 100 Carnival Cats (AppID: 4839660) added to apps_4830000_4839999.jsonl.gz
+[2026-07-31 02:08:14] SAVED GAME DATA: Overleveled (AppID: 4842860) added to apps_4840000_4849999.jsonl.gz
+[2026-07-31 02:08:16] SAVED GAME DATA: Stained Glass (AppID: 4843510) added to apps_4840000_4849999.jsonl.gz
+[2026-07-31 02:08:18] SAVED GAME DATA: LOOPY (AppID: 4849410) added to apps_4840000_4849999.jsonl.gz
+[2026-07-31 02:08:19] SAVED GAME DATA: Stick Wars: The Laneborn (AppID: 4854590) added to apps_4850000_4859999.jsonl.gz
+[2026-07-31 02:08:21] SAVED GAME DATA: Get It Out (AppID: 4856900) added to apps_4850000_4859999.jsonl.gz
+[2026-07-31 02:08:23] SAVED GAME DATA: Dog-o-Doku (AppID: 4861370) added to apps_4860000_4869999.jsonl.gz
+[2026-07-31 02:08:24] SAVED GAME DATA: Election Day (AppID: 4864700) added to apps_4860000_4869999.jsonl.gz
+[2026-07-31 02:08:26] SAVED GAME DATA: Kernel Override (AppID: 4875890) added to apps_4870000_4879999.jsonl.gz
+[2026-07-31 02:08:28] SAVED GAME DATA: Rune Robin's Dreamscape (AppID: 4882570) added to apps_4880000_4889999.jsonl.gz
+[2026-07-31 02:08:29] SAVED GAME DATA: Saturn Rising (AppID: 4885360) added to apps_4880000_4889999.jsonl.gz
+[2026-07-31 02:08:31] SAVED GAME DATA: The Uncovering (AppID: 4889870) added to apps_4880000_4889999.jsonl.gz
+[2026-07-31 02:08:33] SAVED GAME DATA: PURR DIEM (AppID: 4903070) added to apps_4900000_4909999.jsonl.gz
+[2026-07-31 02:08:34] SAVED GAME DATA: Eldermyth (AppID: 4906970) added to apps_4900000_4909999.jsonl.gz
+[2026-07-31 02:08:36] SAVED GAME DATA: VERAKORIA (AppID: 4909230) added to apps_4900000_4909999.jsonl.gz
+[2026-07-31 02:08:38] SAVED GAME DATA: FKC: Fighting Krazy Chickens! (AppID: 4916140) added to apps_4910000_4919999.jsonl.gz
+[2026-07-31 02:08:39] SAVED GAME DATA: EpicSelectly (AppID: 4919950) added to apps_4910000_4919999.jsonl.gz
+[2026-07-31 02:08:41] SAVED GAME DATA: Doomsday Anchor (AppID: 4924430) added to apps_4920000_4929999.jsonl.gz
+[2026-07-31 02:08:43] SAVED GAME DATA: Stellar Wreck (AppID: 4926120) added to apps_4920000_4929999.jsonl.gz
+[2026-07-31 02:08:44] SAVED GAME DATA: Bibliotheca Anima (AppID: 4929200) added to apps_4920000_4929999.jsonl.gz
+[2026-07-31 02:08:46] SAVED GAME DATA: Deep Nightmare: Phobias (AppID: 4929700) added to apps_4920000_4929999.jsonl.gz
+[2026-07-31 02:08:48] SAVED GAME DATA: OLD GOD DUNGEON (AppID: 4930910) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:08:49] SAVED GAME DATA: Alone: far from home (AppID: 4931450) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:08:51] SAVED GAME DATA: Mars Inc 98 (AppID: 4933660) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:08:53] SAVED GAME DATA: Summer Snow. (AppID: 4933880) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:08:54] SAVED GAME DATA: Starry-伴你同行 (AppID: 4934070) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:08:56] SAVED GAME DATA: 影戦 (AppID: 4934470) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:08:58] SAVED GAME DATA: Puzzles Boars (AppID: 4936720) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:08:59] SAVED GAME DATA: Puzzles Frogs (AppID: 4936740) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:01] SAVED GAME DATA: Puzzles Planets (AppID: 4936750) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:03] SAVED GAME DATA: Puzzles Stars (AppID: 4936760) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:04] SAVED GAME DATA: Puzzles Ceramic (AppID: 4936790) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:06] SAVED GAME DATA: Puzzles Cold Weapons (AppID: 4936800) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:08] SAVED GAME DATA: Dungeon Portal (AppID: 4936900) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:09] SAVED GAME DATA: Bounce Intelligence (AppID: 4937280) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:11] SAVED GAME DATA: UpBRELLA (AppID: 4939600) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:12] SAVED GAME DATA: Prismals (AppID: 4939770) added to apps_4930000_4939999.jsonl.gz
+[2026-07-31 02:09:14] SAVED GAME DATA: Dice (AppID: 4940860) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:16] SAVED GAME DATA: Cookwagon (AppID: 4942150) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:17] SAVED GAME DATA: When stars rest (AppID: 4942690) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:19] SAVED GAME DATA: Parallel Photon Protocol (AppID: 4944330) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:21] SAVED GAME DATA: Kairos: In Step with Time (AppID: 4944490) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:22] SAVED GAME DATA: 汉墓飞僵 (AppID: 4946860) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:24] SAVED GAME DATA: Crash-TEST (AppID: 4948500) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:26] SAVED GAME DATA: 101 Cats in Athens (AppID: 4949840) added to apps_4940000_4949999.jsonl.gz
+[2026-07-31 02:09:27] SAVED GAME DATA: Paperlings (AppID: 4950360) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:29] SAVED GAME DATA: Soul Ricochet (AppID: 4952910) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:31] SAVED GAME DATA: Achievement Decor (AppID: 4952970) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:32] SAVED GAME DATA: xvorogue (AppID: 4953970) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:34] SAVED GAME DATA: Hextracer (AppID: 4956770) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:37] SAVED GAME DATA: Neo-Exodus: Last Bastion (AppID: 4956890) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:38] SAVED GAME DATA: Country Walk (AppID: 4959220) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:40] SAVED GAME DATA: Desert Grinder (AppID: 4959280) added to apps_4950000_4959999.jsonl.gz
+[2026-07-31 02:09:42] SAVED GAME DATA: Solitaire Adventure (AppID: 4960780) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:43] SAVED GAME DATA: Shadow Slayer (AppID: 4960790) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:45] SAVED GAME DATA: Monster Girl Tactics: Oubliette (AppID: 4960970) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:47] SAVED GAME DATA: 1930: Farm Manager (AppID: 4963090) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:48] SAVED GAME DATA: 12 Abroad St. (AppID: 4963280) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:50] SAVED GAME DATA: Siribird (AppID: 4963480) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:52] SAVED GAME DATA: BROKE.EXE (AppID: 4963810) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:53] SAVED GAME DATA: Huff & Puff (AppID: 4966590) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:55] SAVED GAME DATA: Union Vivien (AppID: 4967230) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:56] SAVED GAME DATA: Two-Dye (AppID: 4967390) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:09:58] SAVED GAME DATA: Trucktris (AppID: 4969840) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:10:00] SAVED GAME DATA: Desktop & Dungeon (AppID: 4970590) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:02] SAVED GAME DATA: Disco (AppID: 4970900) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:03] SAVED GAME DATA: Flux Grid (AppID: 4971600) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:05] SAVED GAME DATA: Deadroll (AppID: 4971700) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:06] SAVED GAME DATA: Desktop Grass (AppID: 4971830) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:08] SAVED GAME DATA: ドラマライク アドベンチャー本と鍵の季節 (AppID: 4972460) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:10] SAVED GAME DATA: Xydorth (AppID: 4972620) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:11] SAVED GAME DATA: Blue Guy Must Die (AppID: 4972690) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:13] SAVED GAME DATA: Impersonal (AppID: 4973950) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:15] SAVED GAME DATA: 忘れ物 (AppID: 4977580) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:16] SAVED GAME DATA: Masterpiece: Restore the Gallery (AppID: 4978110) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:18] SAVED GAME DATA: Hollow Crew (AppID: 4979250) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:20] SAVED GAME DATA: Scam Artist (AppID: 4979460) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:21] SAVED GAME DATA: SIGKILL: Look Away (AppID: 4979740) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 02:10:23] SAVED GAME DATA: Best Viewed Up Close: Oil on Canvas (AppID: 4980180) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:25] SAVED GAME DATA: Buzzness Tycoon (AppID: 4980570) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:27] SAVED GAME DATA: Re:BirthStone ～誕生石物語～ (AppID: 4980590) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:28] SAVED GAME DATA: Broadside Bash（舷炮乱斗） (AppID: 4981100) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:30] SAVED GAME DATA: Escape the Flood! (AppID: 4981810) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:32] SAVED GAME DATA: RV Life Sim (AppID: 4981830) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:33] SAVED GAME DATA: DEAD_FARE (AppID: 4982550) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:35] SAVED GAME DATA: 3 Estrellas (AppID: 4982580) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:36] SAVED GAME DATA: Train Plus Japan Drive Western Japan Trains! Rapid Service Edition (AppID: 4982590) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:38] SAVED GAME DATA: The Red Valve (AppID: 4983590) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:40] SAVED GAME DATA: Jousting Around (AppID: 4983950) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:41] SAVED GAME DATA: THE 13th Digit (AppID: 4984160) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:43] SAVED GAME DATA: Incremental Space Defense Force League (AppID: 4984540) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:45] SAVED GAME DATA: Anchorite: Heritage Ascension (AppID: 4984550) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:46] SAVED GAME DATA: CORPSE FARM (AppID: 4985170) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:48] SAVED GAME DATA: Are You Chicken? (AppID: 4985780) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:50] SAVED GAME DATA: Network & Cyber Security Simulator (AppID: 4986050) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:51] SAVED GAME DATA: 女魔王様、勇者を演じる (AppID: 4986930) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:53] SAVED GAME DATA: The Fabricator (AppID: 4987740) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:55] SAVED GAME DATA: Kitsune Waifu (AppID: 4988150) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:56] SAVED GAME DATA: Guardian Above the Domes (AppID: 4988360) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:10:58] SAVED GAME DATA:  完蛋！我被多边形包围了 (AppID: 4988380) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:11:01] SAVED GAME DATA: Witch's Last Curse (AppID: 4989370) added to apps_4980000_4989999.jsonl.gz
+[2026-07-31 02:11:03] SAVED GAME DATA: Deckforce (AppID: 4990070) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:04] SAVED GAME DATA: NEON FORTRESS (AppID: 4991540) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:06] SAVED GAME DATA: Shady O'Grady's™ Rising Star (2007) (AppID: 4991550) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:07] SAVED GAME DATA: Buried Apparition (AppID: 4991870) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:09] SAVED GAME DATA: Ceramic · Stainless Steel · Neurotransmitter (AppID: 4993110) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:11] SAVED GAME DATA: Hellscums tactics (AppID: 4993980) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:12] SAVED GAME DATA: Books for Bad Neighbors (AppID: 4995520) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:14] SAVED GAME DATA: 放开那个喉结罩 (AppID: 4995920) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:16] SAVED GAME DATA: Archive of Fate (AppID: 4997870) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:17] SAVED GAME DATA: Turing Heads (AppID: 4998270) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:19] SAVED GAME DATA: 神魔孵化 (AppID: 4998370) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:21] SAVED GAME DATA: Galvanize Simulator (AppID: 4998830) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:22] SAVED GAME DATA: Minesweeper Inc. (AppID: 4999570) added to apps_4990000_4999999.jsonl.gz
+[2026-07-31 02:11:24] SAVED GAME DATA: Souls on the Line (AppID: 5000240) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:26] SAVED GAME DATA: Da Bomb! (AppID: 5001100) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:27] SAVED GAME DATA: SHKSHK (AppID: 5001510) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:29] SAVED GAME DATA: Escape from Prompt: Rogue AI (AppID: 5002400) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:31] SAVED GAME DATA: Survival Deck Z (AppID: 5002450) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:32] SAVED GAME DATA: GOD CANDLE (AppID: 5002930) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:34] SAVED GAME DATA: Cage Legacy (AppID: 5002990) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:36] SAVED GAME DATA: Caveward (AppID: 5003560) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:37] SAVED GAME DATA: Rewritten: Chasing History (AppID: 5003710) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:39] SAVED GAME DATA: Taxistanbul: Istanbul Taxi Simulator (AppID: 5004230) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:41] SAVED GAME DATA: 王之将死/Checkmate (AppID: 5005180) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:42] SAVED GAME DATA: Boomimals (AppID: 5005890) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:44] SAVED GAME DATA: HALFTIME Manager (AppID: 5005920) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:46] SAVED GAME DATA: CHICKEN MINE (AppID: 5007100) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:47] SAVED GAME DATA: Abys Orbit (AppID: 5007590) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:49] SAVED GAME DATA: One More Byte (AppID: 5007880) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:51] SAVED GAME DATA: Bit Footballer: The Career (AppID: 5008320) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:52] SAVED GAME DATA: A Border With No End (AppID: 5008790) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:54] SAVED GAME DATA: Medieval Travelling Merchant (AppID: 5008870) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:56] SAVED GAME DATA: Butterfly Project (AppID: 5009380) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:57] SAVED GAME DATA: Aquasushi Cat (AppID: 5009510) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:11:59] SAVED GAME DATA: Gloomhallow (AppID: 5009620) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:12:01] SAVED GAME DATA: Ear Cleaning Simulator (AppID: 5009680) added to apps_5000000_5009999.jsonl.gz
+[2026-07-31 02:12:02] SAVED GAME DATA: Longbu Mountain in DuAn (AppID: 5010100) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:04] SAVED GAME DATA: Brew & Bottle (AppID: 5010110) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:06] SAVED GAME DATA: Canyon Carnage (AppID: 5010120) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:07] SAVED GAME DATA: Strait of Hormuz Mini Arcade (AppID: 5010210) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:09] SAVED GAME DATA: Cozy Banker (AppID: 5010440) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:11] SAVED GAME DATA: Trash Raccoon (AppID: 5010610) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:12] SAVED GAME DATA: Pample (AppID: 5010940) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:14] SAVED GAME DATA: Les Bones (AppID: 5011110) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:16] SAVED GAME DATA: The Safe Job (AppID: 5011170) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:17] SAVED GAME DATA: Cyber Citizen (AppID: 5011310) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:19] SAVED GAME DATA: Arrow Card Arena (箭域卡戰) (AppID: 5011490) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:21] SAVED GAME DATA: Is That a Human Organ? (AppID: 5014260) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:22] SAVED GAME DATA: Mortal Harvest: Farmer to God Survival (AppID: 5014300) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:25] SAVED GAME DATA: Sweet KOL (AppID: 5017070) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:27] SAVED GAME DATA: Clientele 2: A Sexy Deck Builder (AppID: 5018740) added to apps_5010000_5019999.jsonl.gz
+[2026-07-31 02:12:28] SAVED GAME DATA: Wild Girls: Gold Rush (AppID: 5021390) added to apps_5020000_5029999.jsonl.gz
+[2026-07-31 02:12:30] SAVED GAME DATA: Alice in Wonderland: The Crown of Wishes (AppID: 5021880) added to apps_5020000_5029999.jsonl.gz
+[2026-07-31 02:12:32] Extraction step completed. Processed 204 new appids. Saved 204 valid games.
