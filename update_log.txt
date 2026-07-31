@@ -178477,3 +178477,10 @@
 [2026-07-31 02:37:56] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-07-31 02:37:57] HTTP Error 500 for AppID 1196310
 [2026-07-31 02:37:59] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-07-31 02:38:29] Loaded 176960 known apps state tracking file.
+[2026-07-31 02:38:29] Fetching latest app catalog from Steam API...
+[2026-07-31 02:38:38] Total apps discovered on Steam: 176937
+[2026-07-31 02:38:38] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-07-31 02:38:44] HTTP Error 500 for AppID 1196310
+[2026-07-31 02:38:46] SAVED GAME DATA: Idle Bomb Animals (AppID: 4692190) added to apps_4690000_4699999.jsonl.gz
+[2026-07-31 02:38:48] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
