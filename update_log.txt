@@ -178802,3 +178802,10 @@
 [2026-07-31 03:22:20] HTTP Error 500 for AppID 1196310
 [2026-07-31 03:22:21] SKIPPED DATA: LAIN (AppID: 4988650) returned success: false
 [2026-07-31 03:22:24] Extraction step completed. Processed 1 new appids. Saved 0 valid games.
+[2026-07-31 03:22:55] Loaded 176967 known apps state tracking file.
+[2026-07-31 03:22:55] Fetching latest app catalog from Steam API...
+[2026-07-31 03:23:05] Total apps discovered on Steam: 176944
+[2026-07-31 03:23:05] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-07-31 03:23:09] HTTP Error 500 for AppID 1196310
+[2026-07-31 03:23:11] SAVED GAME DATA: Black Lotus (AppID: 4976680) added to apps_4970000_4979999.jsonl.gz
+[2026-07-31 03:23:13] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
