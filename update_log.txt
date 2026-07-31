@@ -178288,3 +178288,9 @@
 [2026-07-31 02:12:28] SAVED GAME DATA: Wild Girls: Gold Rush (AppID: 5021390) added to apps_5020000_5029999.jsonl.gz
 [2026-07-31 02:12:30] SAVED GAME DATA: Alice in Wonderland: The Crown of Wishes (AppID: 5021880) added to apps_5020000_5029999.jsonl.gz
 [2026-07-31 02:12:32] Extraction step completed. Processed 204 new appids. Saved 204 valid games.
+[2026-07-31 02:13:18] Loaded 176957 known apps state tracking file.
+[2026-07-31 02:13:18] Fetching latest app catalog from Steam API...
+[2026-07-31 02:13:28] Total apps discovered on Steam: 176934
+[2026-07-31 02:13:28] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-07-31 02:13:30] HTTP Error 500 for AppID 1196310
+[2026-07-31 02:13:31] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
