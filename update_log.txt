@@ -178318,3 +178318,10 @@
 [2026-07-31 02:16:27] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-07-31 02:16:30] HTTP Error 500 for AppID 1196310
 [2026-07-31 02:16:32] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-07-31 02:17:08] Loaded 176957 known apps state tracking file.
+[2026-07-31 02:17:08] Fetching latest app catalog from Steam API...
+[2026-07-31 02:17:17] Total apps discovered on Steam: 176935
+[2026-07-31 02:17:17] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-07-31 02:17:20] HTTP Error 500 for AppID 1196310
+[2026-07-31 02:17:22] SAVED GAME DATA: MapCity (AppID: 4964730) added to apps_4960000_4969999.jsonl.gz
+[2026-07-31 02:17:24] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
