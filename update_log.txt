@@ -178822,3 +178822,9 @@
 [2026-07-31 03:24:54] HTTP Error 500 for AppID 1196310
 [2026-07-31 03:24:55] SAVED GAME DATA: Spacewar (AppID: 4989790) added to apps_4980000_4989999.jsonl.gz
 [2026-07-31 03:24:58] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
+[2026-07-31 03:25:28] Loaded 176969 known apps state tracking file.
+[2026-07-31 03:25:28] Fetching latest app catalog from Steam API...
+[2026-07-31 03:25:37] Total apps discovered on Steam: 176945
+[2026-07-31 03:25:37] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-07-31 03:25:39] HTTP Error 500 for AppID 1196310
+[2026-07-31 03:25:40] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
