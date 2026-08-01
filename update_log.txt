@@ -179038,3 +179038,13 @@
 [2026-08-01 02:13:53] SAVED GAME DATA: Blackout Murder (AppID: 5020590) added to apps_5020000_5029999.jsonl.gz
 [2026-08-01 02:13:55] SAVED GAME DATA: Eleuthera (AppID: 5027330) added to apps_5020000_5029999.jsonl.gz
 [2026-08-01 02:13:57] Extraction step completed. Processed 186 new appids. Saved 186 valid games.
+[2026-08-01 02:14:37] Loaded 177155 known apps state tracking file.
+[2026-08-01 02:14:37] Fetching latest app catalog from Steam API...
+[2026-08-01 02:14:46] Total apps discovered on Steam: 177122
+[2026-08-01 02:14:46] Update started. Found 5 NEW apps to inspect and fetch.
+[2026-08-01 02:14:52] HTTP Error 500 for AppID 1196310
+[2026-08-01 02:14:53] SAVED GAME DATA: Called Shot (AppID: 4509210) added to apps_4500000_4509999.jsonl.gz
+[2026-08-01 02:14:55] SAVED GAME DATA: Mahjong Nook (AppID: 4833490) added to apps_4830000_4839999.jsonl.gz
+[2026-08-01 02:14:57] SAVED GAME DATA: Hexa-Gone (AppID: 4955120) added to apps_4950000_4959999.jsonl.gz
+[2026-08-01 02:14:58] SAVED GAME DATA: Cyber Volleyball (AppID: 4980110) added to apps_4980000_4989999.jsonl.gz
+[2026-08-01 02:15:01] Extraction step completed. Processed 4 new appids. Saved 4 valid games.
