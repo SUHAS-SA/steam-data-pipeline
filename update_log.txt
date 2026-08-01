@@ -179192,3 +179192,10 @@
 [2026-08-01 02:36:35] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-01 02:36:38] HTTP Error 500 for AppID 1196310
 [2026-08-01 02:36:40] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-01 02:37:17] Loaded 177159 known apps state tracking file.
+[2026-08-01 02:37:17] Fetching latest app catalog from Steam API...
+[2026-08-01 02:37:26] Total apps discovered on Steam: 177123
+[2026-08-01 02:37:26] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-01 02:37:29] HTTP Error 500 for AppID 1196310
+[2026-08-01 02:37:31] SAVED GAME DATA: 景杉传 (AppID: 5009370) added to apps_5000000_5009999.jsonl.gz
+[2026-08-01 02:37:33] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
