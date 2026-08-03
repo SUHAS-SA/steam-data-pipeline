@@ -179510,3 +179510,9 @@
 [2026-08-03 02:09:49] HTTP Error 500 for AppID 1196310
 [2026-08-03 02:09:51] SAVED GAME DATA: Desktopet (AppID: 4691770) added to apps_4690000_4699999.jsonl.gz
 [2026-08-03 02:09:53] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
+[2026-08-03 02:10:33] Loaded 177315 known apps state tracking file.
+[2026-08-03 02:10:33] Fetching latest app catalog from Steam API...
+[2026-08-03 02:10:43] Total apps discovered on Steam: 177277
+[2026-08-03 02:10:44] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-08-03 02:10:47] HTTP Error 500 for AppID 1196310
+[2026-08-03 02:10:48] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
