@@ -179503,3 +179503,10 @@
 [2026-08-03 02:08:53] SAVED GAME DATA: BABU - Blow All Blocks Up! (AppID: 5017270) added to apps_5010000_5019999.jsonl.gz
 [2026-08-03 02:08:55] SAVED GAME DATA: ENTRANCE EXAM (AppID: 5021120) added to apps_5020000_5029999.jsonl.gz
 [2026-08-03 02:08:57] Extraction step completed. Processed 46 new appids. Saved 46 valid games.
+[2026-08-03 02:09:37] Loaded 177314 known apps state tracking file.
+[2026-08-03 02:09:37] Fetching latest app catalog from Steam API...
+[2026-08-03 02:09:45] Total apps discovered on Steam: 177277
+[2026-08-03 02:09:45] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-03 02:09:49] HTTP Error 500 for AppID 1196310
+[2026-08-03 02:09:51] SAVED GAME DATA: Desktopet (AppID: 4691770) added to apps_4690000_4699999.jsonl.gz
+[2026-08-03 02:09:53] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
