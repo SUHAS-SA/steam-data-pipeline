@@ -180159,3 +180159,9 @@
 [2026-08-04 02:55:34] SAVED GAME DATA: Farmer and Ghost (AppID: 4980280) added to apps_4980000_4989999.jsonl.gz
 [2026-08-04 02:55:36] SAVED GAME DATA: Damage Chess (AppID: 4985190) added to apps_4980000_4989999.jsonl.gz
 [2026-08-04 02:55:38] Extraction step completed. Processed 2 new appids. Saved 2 valid games.
+[2026-08-04 02:56:12] Loaded 177478 known apps state tracking file.
+[2026-08-04 02:56:12] Fetching latest app catalog from Steam API...
+[2026-08-04 02:56:22] Total apps discovered on Steam: 177434
+[2026-08-04 02:56:22] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-08-04 02:56:23] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:56:25] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
