@@ -179953,3 +179953,9 @@
 [2026-08-04 02:21:25] SAVED GAME DATA: Death´s Blossom (AppID: 4959790) added to apps_4950000_4959999.jsonl.gz
 [2026-08-04 02:21:27] SAVED GAME DATA: Unbox Super Card (AppID: 4966170) added to apps_4960000_4969999.jsonl.gz
 [2026-08-04 02:21:29] Extraction step completed. Processed 2 new appids. Saved 2 valid games.
+[2026-08-04 02:22:10] Loaded 177470 known apps state tracking file.
+[2026-08-04 02:22:10] Fetching latest app catalog from Steam API...
+[2026-08-04 02:22:19] Total apps discovered on Steam: 177426
+[2026-08-04 02:22:19] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-08-04 02:22:22] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:22:23] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
