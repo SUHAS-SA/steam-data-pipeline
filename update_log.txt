@@ -180071,3 +180071,9 @@
 [2026-08-04 02:38:14] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:38:16] SAVED GAME DATA: 僕らのサーガ (AppID: 4961590) added to apps_4960000_4969999.jsonl.gz
 [2026-08-04 02:38:18] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
+[2026-08-04 02:39:11] Loaded 177474 known apps state tracking file.
+[2026-08-04 02:39:11] Fetching latest app catalog from Steam API...
+[2026-08-04 02:39:20] Total apps discovered on Steam: 177430
+[2026-08-04 02:39:20] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-08-04 02:39:27] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:39:28] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
