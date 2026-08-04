@@ -179920,3 +179920,10 @@
 [2026-08-04 02:16:38] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:16:39] SAVED GAME DATA: Gunslinger Girl Survivor (AppID: 2651400) added to apps_2650000_2659999.jsonl.gz
 [2026-08-04 02:16:42] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
+[2026-08-04 02:17:26] Loaded 177467 known apps state tracking file.
+[2026-08-04 02:17:26] Fetching latest app catalog from Steam API...
+[2026-08-04 02:17:36] Total apps discovered on Steam: 177424
+[2026-08-04 02:17:36] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-04 02:17:37] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:17:39] SAVED GAME DATA: Bureau of Hero Affairs (AppID: 4966920) added to apps_4960000_4969999.jsonl.gz
+[2026-08-04 02:17:42] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
