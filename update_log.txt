@@ -179812,3 +179812,12 @@
 [2026-08-04 02:02:42] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-04 02:02:43] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:02:45] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-04 02:03:29] Loaded 177461 known apps state tracking file.
+[2026-08-04 02:03:29] Fetching latest app catalog from Steam API...
+[2026-08-04 02:03:39] Total apps discovered on Steam: 177420
+[2026-08-04 02:03:39] Update started. Found 4 NEW apps to inspect and fetch.
+[2026-08-04 02:03:40] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:03:42] SAVED GAME DATA: Hinge of Y (AppID: 4940210) added to apps_4940000_4949999.jsonl.gz
+[2026-08-04 02:03:44] SAVED GAME DATA: FIRST LINE (AppID: 5001990) added to apps_5000000_5009999.jsonl.gz
+[2026-08-04 02:03:45] SAVED GAME DATA: EmergenHex (AppID: 5029550) added to apps_5020000_5029999.jsonl.gz
+[2026-08-04 02:03:48] Extraction step completed. Processed 3 new appids. Saved 3 valid games.
