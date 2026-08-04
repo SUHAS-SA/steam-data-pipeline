@@ -179769,3 +179769,10 @@
 [2026-08-04 01:56:42] SAVED GAME DATA: Abyssal Moonlight-Chapter1 (AppID: 5034420) added to apps_5030000_5039999.jsonl.gz
 [2026-08-04 01:56:43] SAVED GAME DATA: Ero Puzzle Awakening (AppID: 5037970) added to apps_5030000_5039999.jsonl.gz
 [2026-08-04 01:56:46] Extraction step completed. Processed 145 new appids. Saved 145 valid games.
+[2026-08-04 01:57:30] Loaded 177460 known apps state tracking file.
+[2026-08-04 01:57:30] Fetching latest app catalog from Steam API...
+[2026-08-04 01:57:39] Total apps discovered on Steam: 177417
+[2026-08-04 01:57:39] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-04 01:57:42] HTTP Error 500 for AppID 1196310
+[2026-08-04 01:57:44] SAVED GAME DATA: Wishseeker (AppID: 4226690) added to apps_4220000_4229999.jsonl.gz
+[2026-08-04 01:57:46] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
