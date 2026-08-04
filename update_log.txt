@@ -179857,3 +179857,10 @@
 [2026-08-04 02:08:48] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-04 02:08:52] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:08:53] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-04 02:09:30] Loaded 177464 known apps state tracking file.
+[2026-08-04 02:09:30] Fetching latest app catalog from Steam API...
+[2026-08-04 02:09:39] Total apps discovered on Steam: 177421
+[2026-08-04 02:09:39] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-04 02:09:41] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:09:42] SAVED GAME DATA: She Only Visits at Night (AppID: 4893720) added to apps_4890000_4899999.jsonl.gz
+[2026-08-04 02:09:45] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
