@@ -180257,3 +180257,9 @@
 [2026-08-04 03:08:58] HTTP Error 500 for AppID 1196310
 [2026-08-04 03:09:00] SAVED GAME DATA: Worm In Rotating Land (AppID: 5026560) added to apps_5020000_5029999.jsonl.gz
 [2026-08-04 03:09:02] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
+[2026-08-04 03:09:33] Loaded 177480 known apps state tracking file.
+[2026-08-04 03:09:33] Fetching latest app catalog from Steam API...
+[2026-08-04 03:09:43] Total apps discovered on Steam: 177436
+[2026-08-04 03:09:44] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-08-04 03:09:46] HTTP Error 500 for AppID 1196310
+[2026-08-04 03:09:47] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
