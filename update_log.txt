@@ -179977,3 +179977,10 @@
 [2026-08-04 02:24:58] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-04 02:25:00] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:25:02] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-04 02:25:43] Loaded 177470 known apps state tracking file.
+[2026-08-04 02:25:43] Fetching latest app catalog from Steam API...
+[2026-08-04 02:25:53] Total apps discovered on Steam: 177427
+[2026-08-04 02:25:54] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-04 02:25:55] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:25:57] SAVED GAME DATA: 冒险者公会 (AppID: 4807880) added to apps_4800000_4809999.jsonl.gz
+[2026-08-04 02:25:59] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
