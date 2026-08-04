@@ -180083,3 +180083,10 @@
 [2026-08-04 02:40:06] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-04 02:40:08] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:40:10] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-04 02:40:52] Loaded 177474 known apps state tracking file.
+[2026-08-04 02:40:52] Fetching latest app catalog from Steam API...
+[2026-08-04 02:41:00] Total apps discovered on Steam: 177431
+[2026-08-04 02:41:00] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-04 02:41:08] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:41:10] SAVED GAME DATA: قضية - Case (AppID: 4944780) added to apps_4940000_4949999.jsonl.gz
+[2026-08-04 02:41:13] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
