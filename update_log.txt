@@ -179782,3 +179782,9 @@
 [2026-08-04 01:58:27] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-04 01:58:29] HTTP Error 500 for AppID 1196310
 [2026-08-04 01:58:31] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-04 01:59:09] Loaded 177461 known apps state tracking file.
+[2026-08-04 01:59:09] Fetching latest app catalog from Steam API...
+[2026-08-04 01:59:18] Total apps discovered on Steam: 177417
+[2026-08-04 01:59:18] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-08-04 01:59:22] HTTP Error 500 for AppID 1196310
+[2026-08-04 01:59:23] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
