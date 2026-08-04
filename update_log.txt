@@ -180177,3 +180177,10 @@
 [2026-08-04 02:58:15] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-04 02:58:17] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:58:19] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-04 02:58:48] Loaded 177478 known apps state tracking file.
+[2026-08-04 02:58:48] Fetching latest app catalog from Steam API...
+[2026-08-04 02:58:58] Total apps discovered on Steam: 177435
+[2026-08-04 02:58:58] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-04 02:59:01] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:59:03] SAVED GAME DATA: The Ninth Legion (AppID: 4605900) added to apps_4600000_4609999.jsonl.gz
+[2026-08-04 02:59:05] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
