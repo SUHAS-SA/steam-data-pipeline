@@ -180039,3 +180039,10 @@
 [2026-08-04 02:33:54] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-04 02:33:55] HTTP Error 500 for AppID 1196310
 [2026-08-04 02:33:57] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-04 02:34:29] Loaded 177472 known apps state tracking file.
+[2026-08-04 02:34:29] Fetching latest app catalog from Steam API...
+[2026-08-04 02:34:37] Total apps discovered on Steam: 177429
+[2026-08-04 02:34:37] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-04 02:34:39] HTTP Error 500 for AppID 1196310
+[2026-08-04 02:34:41] SAVED GAME DATA: Dark Castle (AppID: 4706290) added to apps_4700000_4709999.jsonl.gz
+[2026-08-04 02:34:43] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
