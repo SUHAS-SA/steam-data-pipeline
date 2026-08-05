@@ -180569,3 +180569,9 @@
 [2026-08-05 01:59:52] SAVED GAME DATA: 未授权记忆 (AppID: 4956990) added to apps_4950000_4959999.jsonl.gz
 [2026-08-05 01:59:54] SAVED GAME DATA: ■■になってくれませんか？ (AppID: 4962190) added to apps_4960000_4969999.jsonl.gz
 [2026-08-05 01:59:56] Extraction step completed. Processed 3 new appids. Saved 3 valid games.
+[2026-08-05 02:00:26] Loaded 177684 known apps state tracking file.
+[2026-08-05 02:00:26] Fetching latest app catalog from Steam API...
+[2026-08-05 02:00:35] Total apps discovered on Steam: 177627
+[2026-08-05 02:00:35] Update started. Found 1 NEW apps to inspect and fetch.
+[2026-08-05 02:00:38] HTTP Error 500 for AppID 1196310
+[2026-08-05 02:00:39] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
