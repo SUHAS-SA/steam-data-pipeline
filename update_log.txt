@@ -180560,3 +180560,12 @@
 [2026-08-05 01:58:56] SAVED GAME DATA: My Nun Waifu: Hentai Puzzle (AppID: 5041800) added to apps_5040000_5049999.jsonl.gz
 [2026-08-05 01:58:58] SAVED GAME DATA: Butt Brawl: Survival (AppID: 5042640) added to apps_5040000_5049999.jsonl.gz
 [2026-08-05 01:59:01] Extraction step completed. Processed 201 new appids. Saved 201 valid games.
+[2026-08-05 01:59:38] Loaded 177681 known apps state tracking file.
+[2026-08-05 01:59:38] Fetching latest app catalog from Steam API...
+[2026-08-05 01:59:47] Total apps discovered on Steam: 177627
+[2026-08-05 01:59:47] Update started. Found 4 NEW apps to inspect and fetch.
+[2026-08-05 01:59:49] HTTP Error 500 for AppID 1196310
+[2026-08-05 01:59:51] SAVED GAME DATA: Hell And Madness (AppID: 4016450) added to apps_4010000_4019999.jsonl.gz
+[2026-08-05 01:59:52] SAVED GAME DATA: 未授权记忆 (AppID: 4956990) added to apps_4950000_4959999.jsonl.gz
+[2026-08-05 01:59:54] SAVED GAME DATA: ■■になってくれませんか？ (AppID: 4962190) added to apps_4960000_4969999.jsonl.gz
+[2026-08-05 01:59:56] Extraction step completed. Processed 3 new appids. Saved 3 valid games.
