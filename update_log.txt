@@ -180838,3 +180838,11 @@
 [2026-08-06 02:01:46] SAVED GAME DATA: Hentai Office Succubus (AppID: 5045730) added to apps_5040000_5049999.jsonl.gz
 [2026-08-06 02:01:47] SAVED GAME DATA: The Holey Kingdom (AppID: 5049640) added to apps_5040000_5049999.jsonl.gz
 [2026-08-06 02:01:50] Extraction step completed. Processed 221 new appids. Saved 221 valid games.
+[2026-08-06 02:02:46] Loaded 177905 known apps state tracking file.
+[2026-08-06 02:02:46] Fetching latest app catalog from Steam API...
+[2026-08-06 02:02:56] Total apps discovered on Steam: 177839
+[2026-08-06 02:02:56] Update started. Found 3 NEW apps to inspect and fetch.
+[2026-08-06 02:02:57] HTTP Error 500 for AppID 1196310
+[2026-08-06 02:02:59] SAVED GAME DATA: 天坑追匪 (AppID: 4498140) added to apps_4490000_4499999.jsonl.gz
+[2026-08-06 02:03:01] SAVED GAME DATA: Space Girl (AppID: 4699050) added to apps_4690000_4699999.jsonl.gz
+[2026-08-06 02:03:03] Extraction step completed. Processed 2 new appids. Saved 2 valid games.
