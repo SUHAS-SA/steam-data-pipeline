@@ -180870,3 +180870,10 @@
 [2026-08-06 02:06:15] Update started. Found 1 NEW apps to inspect and fetch.
 [2026-08-06 02:06:17] HTTP Error 500 for AppID 1196310
 [2026-08-06 02:06:18] Extraction step completed. Processed 0 new appids. Saved 0 valid games.
+[2026-08-06 02:06:57] Loaded 177907 known apps state tracking file.
+[2026-08-06 02:06:57] Fetching latest app catalog from Steam API...
+[2026-08-06 02:07:08] Total apps discovered on Steam: 177840
+[2026-08-06 02:07:08] Update started. Found 2 NEW apps to inspect and fetch.
+[2026-08-06 02:07:09] HTTP Error 500 for AppID 1196310
+[2026-08-06 02:07:11] SAVED GAME DATA: Holiday Alliance (AppID: 4950930) added to apps_4950000_4959999.jsonl.gz
+[2026-08-06 02:07:13] Extraction step completed. Processed 1 new appids. Saved 1 valid games.
